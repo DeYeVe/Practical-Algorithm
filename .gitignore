@@ -429,5 +429,9 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,c++
 
+<<<<<<< HEAD
 #
 *.vcxproj
+=======
+*.vcxproj
+>>>>>>> aa3182ce0f2a00e9f0d075c5f6acc7d955ae1829

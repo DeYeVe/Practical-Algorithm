@@ -431,7 +431,4 @@ FodyWeavers.xsd
 
 <<<<<<< HEAD
 #
-*.vcxproj
-=======
-*.vcxproj
->>>>>>> aa3182ce0f2a00e9f0d075c5f6acc7d955ae1829
+*.vcxproj.*

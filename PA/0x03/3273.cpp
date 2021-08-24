@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int flag[1000001];
+int flag[2000001];
 int arr[100001];
 
 int main(void)

@@ -18,7 +18,6 @@ int main(void)
 
 	while (t--)
 	{
-
 		int board[52][52] = { 0, }; 
 		int vis[52][52] = { 0, };
 		int res = 0;

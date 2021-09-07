@@ -4,7 +4,7 @@
 using namespace std;
 
 int flag[2000001];
-int arr[100001];
+int nums[100001];
 
 int main(void)
 {
@@ -19,15 +19,15 @@ int main(void)
 		int t;
 		cin >> t;
 		flag[t]++;
-		arr[i] = t;
+		nums[i] = t;
 	}
 
 	cin >> x;
 
 	for (int i = 0; i < n; ++i)
 	{
-		if (x > arr[i])
-			if (flag[x - arr[i]])
+		if (x > nums[i])
+			if (flag[x - nums[i]])
 				res++;
 	}
 
